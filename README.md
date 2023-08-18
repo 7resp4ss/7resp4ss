@@ -15,12 +15,12 @@
 
 
 <h3>🛠 Tech Stack</h3>
-- 💻 &nbsp; Python | C++ | C 
-- ☠ &nbsp; Glibc pwn | A little bit linux-kernel pwn | A little bit fuzzing 
+- 💻 &nbsp; Python | C++ | C <p>
+- ☠ &nbsp; Glibc pwn | A little bit linux-kernel pwn | A little bit fuzzing <p>
 
 <!--
 
-- 🔧 &nbsp; Git | Markdown 
+- 🔧 &nbsp; Git | Markdown <p>
 
 -->
 
@@ -28,12 +28,12 @@
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; V8 | Docker🐳 | linux-Kernle
+- 🔧 &nbsp; V8 | Docker🐳 | linux-Kernle <p>
 
 <hr>
 <h3>🏆Credits</h3>
-CVE-2023-2837
-CVE-2023-2837
+CVE-2023-2837 <p>
+CVE-2023-2837 <p>
 <hr>
 
 
