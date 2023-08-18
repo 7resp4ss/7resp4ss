@@ -2,7 +2,7 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<h3> 👨🏻&💻 About Me </h3>
+<h3> 👨🏻&💻 <p> About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
@@ -39,8 +39,10 @@ CVE-2023-2837 <p>
 <h3>📕Published</h3>
 <a href="https://tttang.com/archive/1845/" target="_blank">一条新的glibc IO_FILE利用链：_IO_obstack_jumps利用分析</a>
 
+<a href="https://bbs.kanxue.com/thread-276471.htm" target="_blank">一条新的glibc IO_FILE利用链：__printf_buffer_as_file_overflow利用分析</a>
+
 <h3> 🤝🏻 Connect with Me </h3>
-zjmsober@gmail.com
+<h4> zjmsober@gmail.com </h4>
 </p>
 
 <hr>
