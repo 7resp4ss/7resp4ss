@@ -1,17 +1,8 @@
-### Hi there 👋
-![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Christmas&show_icons=true&theme=tokyonight)
-![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg)
-
-
-
-
-### Hi there 👋<h2> I'm Shivam</h2>
+### Hi there 👋<h2> I'm 7resp4ss</h2>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <h3> 👨🏻•💻 About Me </h3>
-
-
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
@@ -24,20 +15,13 @@
 
 
 <h3>🛠 Tech Stack</h3>
+- 💻 &nbsp; Python | C++ | C 
 
-
-
-- 💻 &nbsp; Python | Java | C++ | C | MySQL
-
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS
+- 🌐 &nbsp; JavaScript
 
 <!--
 
-- 🛢 &nbsp; MySQL | MongoDB
-
-- 🔧 &nbsp; Git | Markdown | Selenium | Tidyverse
-
-- 🖥 &nbsp; Illustrator| Photoshop | InDesign
+- 🔧 &nbsp; Git | Markdown 
 
 -->
 
