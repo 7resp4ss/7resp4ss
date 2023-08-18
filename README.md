@@ -34,9 +34,10 @@
 <h3>🏆Credits</h3>
 CVE-2023-2837 <p>
 CVE-2023-2837 <p>
+......
 <hr>
-
-
+<h3>📕Published</h3>
+<a href="https://tttang.com/archive/1845/" target="_blank">一条新的glibc IO_FILE利用链：_IO_obstack_jumps利用分析</a>
 
 <h3> 🤝🏻 Connect with Me </h3>
 zjmsober@gmail.com
