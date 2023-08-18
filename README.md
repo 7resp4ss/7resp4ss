@@ -6,18 +6,17 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
-- 🎓 &nbsp; Studying Computer Science and Engineering at IIIT Vadodara and coding stuffs.
+- 🎓 &nbsp; Studying Computer Science and Engineering at Neepu and coding stuffs.
 
-- 🌱 &nbsp; Learning about Cloud Tech, Systems Design.
+- 🌱 &nbsp; Learning about CTF && PWN.
 
-- ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
+- ✍️ &nbsp; Pursuing SLEEP as hobbies/side hustles.
 
 
 
 <h3>🛠 Tech Stack</h3>
 - 💻 &nbsp; Python | C++ | C 
-
-- 🌐 &nbsp; JavaScript
+- ☠ &nbsp; glibc pwn | A little bit linux-kernel pwn | A little bit fuzzing 
 
 <!--
 
@@ -29,29 +28,17 @@
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; AWS | Docker🐳 | Firebase | flask
+- 🔧 &nbsp; V8 | Docker🐳 | linux-Kernle
 
 <hr>
-
 
 <hr>
 
 
 
 <h3> 🤝🏻 Connect with Me </h3>
-
-<br>
-
-
-
-<p align="center">
-<a href="mailto:zjmsober@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shivammalpani111@gmail.com-blue?style=flat-square&logo=gmail"></a>
-
+zjmsober@gmail.com
 </p>
-
-
-
-
 
 <hr>
 
