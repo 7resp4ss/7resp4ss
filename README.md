@@ -28,7 +28,7 @@
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; V8 | Docker🐳 | linux-Kernle <p>
+- 🔧 &nbsp; V8 | Docker🐳 | linux-Kernle | Fuzzing <p>
 
 <hr>
 <h3>🏆Credits</h3>
