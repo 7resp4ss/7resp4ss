@@ -2,7 +2,7 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<h3> 👨🏻•💻 About Me </h3>
+<h3> 👨🏻&💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
@@ -16,7 +16,7 @@
 
 <h3>🛠 Tech Stack</h3>
 - 💻 &nbsp; Python | C++ | C 
-- ☠ &nbsp; glibc pwn | A little bit linux-kernel pwn | A little bit fuzzing 
+- ☠ &nbsp; Glibc pwn | A little bit linux-kernel pwn | A little bit fuzzing 
 
 <!--
 
