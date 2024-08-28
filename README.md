@@ -18,6 +18,12 @@
             <ul>
                 <li>&emsp;<a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-4322">CVE-2023-4322</a></li>
             </ul>
+            <li>ggerganov/llama.cpp</li>
+            <ul>
+                <li>&emsp;<a href="https://github.com/ggerganov/llama.cpp/security/advisories/GHSA-wcr5-566p-9cwj">CVE-2024-42479</a></li>
+                <li>&emsp;<a href="https://github.com/ggerganov/llama.cpp/security/advisories/GHSA-5vm9-p64x-gqw9">CVE-2024-42478</a></li>
+                <li>&emsp;<a href="https://github.com/ggerganov/llama.cpp/security/advisories/GHSA-mqp6-7pv6-fqjf">CVE-2024-42477</a></li>
+            </ul>
             <li>...and more.</li>
         </ul>
         <br><br><strong>📕 Publications</strong>
