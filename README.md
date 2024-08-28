@@ -2,7 +2,6 @@
     <samp>
         <br>👋 I'm 7resp4ss, Welcome to my profile!
         <br>懒思身外无穷事，愿读人间未见书
-        <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
         <br>👨🏻&💻&nbsp;About Me
         -&nbsp;🌱&nbsp;Learning about angthing.
         <br>🛠 Tech Stack
