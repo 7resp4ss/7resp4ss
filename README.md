@@ -9,7 +9,7 @@
         <br><br><strong>🔧&nbsp;Currently Learning</strong>
         <br>-&nbsp;🗯️&nbsp;Diving deeper into anything that sparks curiosity.
         <br><br><strong>🏆 Credits</strong>
-        <br>-&nbsp;gpac/gpac
+        <br>-&nbsp;<img src="https://avatars.githubusercontent.com/u/7303020?s=48&v=4" alt="gpac icon" style="width:16px;height:16px;">gpac/gpac
         <br>&emsp;- <a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-2837">CVE-2023-2837</a>
         <br><br>-&nbsp;radareorg/radare2
         <br>&emsp;- <a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-4322">CVE-2023-4322</a>
