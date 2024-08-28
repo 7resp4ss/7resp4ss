@@ -7,7 +7,7 @@
         <br><br><strong>🛠 Tech Stack</strong>
         <br>-&nbsp;🦕&nbsp;Old school with a twist of modern tech.
         <br><br><strong>🔧&nbsp;Currently Learning</strong>
-        <br>-&nbsp;Diving deeper into anything that sparks curiosity.
+        <br>-&nbsp;🗯️&nbsp;Diving deeper into anything that sparks curiosity.
         <br><br><strong>🏆 Credits</strong>
         <br>-&nbsp;gpac/gpac
         <br>&emsp;- <a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-2837">CVE-2023-2837</a>
