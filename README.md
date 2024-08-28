@@ -9,15 +9,24 @@
         <br><br><strong>🔧&nbsp;Currently Learning</strong>
         <br>-&nbsp;🗯️&nbsp;Diving deeper into anything that sparks curiosity.
         <br><br><strong>🏆 Credits</strong>
-        <br>-&nbsp;<img src="https://avatars.githubusercontent.com/u/7303020?s=48&v=4" alt="gpac icon" style="width:16px;height:16px;">gpac/gpac
+        <br>-&nbsp;
+        <img src="https://avatars.githubusercontent.com/u/7303020?s=48&v=4" alt="gpac icon" style="width:16px;height:16px;">
+        gpac/gpac
         <br>&emsp;- <a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-2837">CVE-2023-2837</a>
-        <br><br>-&nbsp;radareorg/radare2
+        <br><br>-&nbsp;
+        <img src="https://github.com/radareorg.png?size=40" alt="radare2 icon" style="width:16px;height:16px;">
+        radareorg/radare2
         <br>&emsp;- <a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-4322">CVE-2023-4322</a>
-        <br><br>-&nbsp;Tencent/Wechat、QQ、WeWork
+        <br><br>-&nbsp;
+        <img src="https://github.com/Tencent.png?size=40" alt="Tencent icon" style="width:16px;height:16px;">
+        Tencent/Wechat、QQ、WeWork
         <br>&emsp;<img src="https://github.com/7resp4ss/7resp4ss/blob/main/Images/image-0x01.png" align="center">
+        <img src="https://github.com/netease-youdao.png?size=40" alt="qanything icon" style="width:16px;height:16px;">
         <br><br>-&nbsp;netease-youdao/qanything
         <br>&emsp;- <a href="https://www.cve.org/CVERecord?id=CVE-2024-8027">CVE-2024-8027</a>
-        <br><br>-&nbsp;ggerganov/llama.cpp
+        <br><br>-&nbsp;
+        <img src="https://user-images.githubusercontent.com/1991296/230134379-7181e485-c521-4d23-a0d6-f7b3b61ba524.png" alt="llama.cpp icon" style="width:16px;height:16px;">
+        ggerganov/llama.cpp
         <br>&emsp;- <a href="https://github.com/ggerganov/llama.cpp/security/advisories/GHSA-wcr5-566p-9cwj">CVE-2024-42479</a>
         <br>&emsp;- <a href="https://github.com/ggerganov/llama.cpp/security/advisories/GHSA-5vm9-p64x-gqw9">CVE-2024-42478</a>
         <br>&emsp;- <a href="https://github.com/ggerganov/llama.cpp/security/advisories/GHSA-mqp6-7pv6-fqjf">CVE-2024-42477</a>
