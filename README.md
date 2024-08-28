@@ -1,7 +1,7 @@
 <p align="center">
     <samp>
         <br>👋 Hello, I'm 7resp4ss! Welcome to my profile!
-        <br>懒思身外无穷事，愿读人间未见书
+        <br><strong>懒思身外无穷事，愿读人间未见书</strong>
         <br><br><strong>👨🏻‍💻&nbsp;About Me</strong>
         <br>-&nbsp;🌱&nbsp;Constantly exploring and learning.
         <br>-&nbsp;💻&nbsp;A proud "dinosaur" in the world of computers.
