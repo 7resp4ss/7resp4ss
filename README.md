@@ -21,8 +21,9 @@
         <img src="https://github.com/Tencent.png?size=40" alt="Tencent icon" style="width:16px;height:16px;">
         Tencent/Wechat、QQ、WeWork
         <br>&emsp;<img src="https://github.com/7resp4ss/7resp4ss/blob/main/Images/image-0x01.png" align="center">
+        <br><br>-&nbsp;
         <img src="https://github.com/netease-youdao.png?size=40" alt="qanything icon" style="width:16px;height:16px;">
-        <br><br>-&nbsp;netease-youdao/qanything
+        netease-youdao/qanything
         <br>&emsp;- <a href="https://www.cve.org/CVERecord?id=CVE-2024-8027">CVE-2024-8027</a>
         <br><br>-&nbsp;
         <img src="https://user-images.githubusercontent.com/1991296/230134379-7181e485-c521-4d23-a0d6-f7b3b61ba524.png" alt="llama.cpp icon" style="width:16px;height:16px;">
