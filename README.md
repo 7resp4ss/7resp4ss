@@ -15,6 +15,7 @@
         <br>-&nbsp;radareorg/radare2
         <br>&emsp;- <a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-4322">CVE-2023-4322</a>
         <br>-&nbsp;Tencent/Wechat、QQ、WeWork
+        <img src="https://github.com/7resp4ss/7resp4ss/blob/main/Images/image-0x01.png" width="150px" height="150px" align="center">
         <br>-&nbsp;netease-youdao/qanything
         <br>&emsp;- <a href="https://www.cve.org/CVERecord?id=CVE-2024-8027">CVE-2024-8027</a>
         <br>-&nbsp;ggerganov/llama.cpp
