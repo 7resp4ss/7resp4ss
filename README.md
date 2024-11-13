@@ -20,6 +20,7 @@
         <br><br>-&nbsp;
         <img src="https://github.com/Tencent.png?size=40" alt="Tencent icon" style="width:16px;height:16px;">
         Tencent/Wechat、QQ、WeWork
+        <br><strong>1click</strong>
         <br>&emsp;<img src="https://github.com/7resp4ss/7resp4ss/blob/main/Images/image-0x01.png" align="center">
         <br><br>-&nbsp;
         <img src="https://github.com/netease-youdao.png?size=40" alt="qanything icon" style="width:16px;height:16px;">
