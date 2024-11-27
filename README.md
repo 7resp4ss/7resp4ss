@@ -37,6 +37,6 @@
         <br>- <a href="https://www.cnblogs.com/7resp4ss/p/17486261.html" target="_blank">一条新的glibc IO_FILE利用链：_IO_obstack_jumps利用分析</a>
         <br>- <a href="https://bbs.kanxue.com/thread-276471.htm" target="_blank">一条新的glibc IO_FILE利用链：__printf_buffer_as_file_overflow利用分析</a>
         <br><br><strong>🤝🏻&nbsp;Let's Connect</strong>
-        <br>- zjmsober@gmail.com
+        <br>- emptc29iZXJAZ21haWwuY29t
     </samp>
 </p>
